@@ -1,0 +1,27 @@
+html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap {
+  display: flex;
+  flex-direction: column; }
+  html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap .fotorama__stage {
+    background-color: #fff;
+    border: 1px solid #c7c8ce;
+    border-radius: 12px 12px 0 0;
+    overflow: hidden;
+    width: auto !important; }
+    html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap .fotorama__stage .fotorama__stage__frame {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: grab; }
+      html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap .fotorama__stage .fotorama__stage__frame .fotorama__img {
+        width: auto !important;
+        height: auto !important;
+        position: unset !important;
+        transform: unset; }
+  html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap .fotorama__nav-wrap .fotorama__nav {
+    text-align: center; }
+    html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap .fotorama__nav-wrap .fotorama__nav .fotorama__nav__shaft .fotorama__nav__frame img {
+      width: 100% !important; }
+    html body .bm-slider-scg-34 .bm-fotorama-slider .fotorama__wrap .fotorama__nav-wrap .fotorama__nav .fotorama__thumb-border {
+      border: 2px solid #217a97; }
+
+/*# sourceMappingURL=variation.css.map */
